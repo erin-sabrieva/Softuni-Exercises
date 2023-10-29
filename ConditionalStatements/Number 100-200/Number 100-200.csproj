@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Number_100_200</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Erin\Desktop\Курс Информатика\Домашни\conditionalStatements.cs" Link="conditionalStatements.cs" />
+  </ItemGroup>
+
+</Project>
